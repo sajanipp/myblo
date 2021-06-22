@@ -1,0 +1,17 @@
+body {
+   text-align: center;
+    background-color:beige;
+}
+div{
+    margin-top: 15px;
+}
+
+.style-section{
+margin-left: 25px;
+   margin-right: 25px;
+    background-color: aliceblue;
+}
+.image-sect{
+   display: flex;
+    justify-content: center;
+}
